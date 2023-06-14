@@ -5,7 +5,8 @@
         "noEmitOnError": true,
         "noImplicitAny": true,
         "forceConsistentCasingInFileNames": true,
-        "strict": false
+        "strictNullChecks": true,
+        "removeComments": true
     },
     "include": ["app/**/*"]
 }
